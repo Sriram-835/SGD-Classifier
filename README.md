@@ -23,7 +23,7 @@ Step 6: Generate Confusion Matrix.
 STEP 7: Stop the program.
 ```
 ## Program:
-```
+```python
 /*
 Program to implement the prediction of iris species using SGD Classifier.
 Developed by: Sriram K
